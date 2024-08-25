@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\Mine\bin\Debug\net8.0\Mine.exe
+C:\Users\admin\Desktop\Bai tap\Mine\bin\Debug\net8.0\Mine.deps.json
+C:\Users\admin\Desktop\Bai tap\Mine\bin\Debug\net8.0\Mine.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\Mine\bin\Debug\net8.0\Mine.dll
+C:\Users\admin\Desktop\Bai tap\Mine\bin\Debug\net8.0\Mine.pdb
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.dll
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\refint\Mine.dll
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.pdb
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\Mine.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\Mine\obj\Debug\net8.0\ref\Mine.dll
